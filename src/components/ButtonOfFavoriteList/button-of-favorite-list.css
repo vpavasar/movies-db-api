@@ -1,0 +1,15 @@
+.action-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+    background-color: rgb(3, 37, 65);
+}
+
+.action-button:hover {
+    cursor: pointer;
+}

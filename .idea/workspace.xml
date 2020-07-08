@@ -1,9 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f25594eb-18f4-413f-9146-42afe9ccf3d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/picture-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/user-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/user-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/picture-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/user-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/user-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/app-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/app-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfFavoriteList/button-of-favorite-list-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfFavoriteList/button-of-favorite-list-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfFavoriteList/button-of-favorite-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfFavoriteList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfWatchlist/button-of-watchlist-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfWatchlist/button-of-watchlist-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfWatchlist/button-of-watchlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonOfWatchlist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CharacterCard/character-card-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CharacterCard/character-card-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CharacterCard/character-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CharacterCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CircularProgressBox/circular-progress-box-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CircularProgressBox/circular-progress-box-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CircularProgressBox/circular-progress-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CircularProgressBox/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateFilter/date-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateFilter/date-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateFilter/date-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DateFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FiltersPanel/filters-panel-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FiltersPanel/filters-panel-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FiltersPanel/filters-panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FiltersPanel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GenresFilter/genres-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GenresFilter/genres-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GenresFilter/genres-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GenresFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KeywordsFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KeywordsFilter/keywords-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KeywordsFilter/keywords-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KeywordsFilter/keywords-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MinimumUserVotesFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MinimumUserVotesFilter/minimum-user-score-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MinimumUserVotesFilter/minimum-user-score-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MinimumUserVotesFilter/minimum-user-score-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/movie-card-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/movie-card-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/movie-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/picture-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieCard/z45cZQS4XcQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieDescriptionBox/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieDescriptionBox/movie-description-box-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieDescriptionBox/movie-description-box-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MovieDescriptionBox/movie-description-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RecommendationMovieCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RecommendationMovieCard/recommendation-movie-card-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RecommendationMovieCard/recommendation-movie-card-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RecommendationMovieCard/recommendation-movie-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewCard/review-card-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewCard/review-card-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReviewCard/review-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RuntimeFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RuntimeFilter/runtime-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RuntimeFilter/runtime-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RuntimeFilter/runtime-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchForm/search-form-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchForm/search-form-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchForm/search-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortPanel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortPanel/sort-panel-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortPanel/sort-panel-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SortPanel/sort-panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrailerBox/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrailerBox/trailer-box-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrailerBox/trailer-box-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrailerBox/trailer-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserScoreFilter/delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserScoreFilter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserScoreFilter/user-score-filter-container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserScoreFilter/user-score-filter-view.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserScoreFilter/user-score-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/ApiKey.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/Refs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/picture-grey.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/user-female.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/user-grey.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d2rD8QdnME6o260LYfjWgB8WGn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/ButtonOfWatchlist" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\iTechArt\Projects\movies-db\assets" />
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\ReviewCard" />
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\MovieCard" />
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\App" />
+      <recent name="D:\iTechArt\Projects\movies-db\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\ButtonOfWatchlist" />
+      <recent name="D:\iTechArt\Projects\movies-db\src" />
+      <recent name="D:\iTechArt\Projects\movies-db\public\images" />
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\KeywordsFilter" />
+      <recent name="D:\iTechArt\Projects\movies-db\src\components\MovieCard" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f25594eb-18f4-413f-9146-42afe9ccf3d8" name="Default Changelist" comment="" />
+      <created>1591633906118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591633906118</updated>
+      <workItem from="1591633907757" duration="14409000" />
+      <workItem from="1591685139084" duration="17047000" />
+      <workItem from="1591799886255" duration="9282000" />
+      <workItem from="1591870115245" duration="8047000" />
+      <workItem from="1591945168343" duration="17461000" />
+      <workItem from="1592036512426" duration="4561000" />
+      <workItem from="1592208954215" duration="31076000" />
+      <workItem from="1592390933650" duration="10313000" />
+      <workItem from="1592477007877" duration="9943000" />
+      <workItem from="1592556729259" duration="6170000" />
+      <workItem from="1592808980870" duration="8908000" />
+      <workItem from="1592994990096" duration="3004000" />
+      <workItem from="1593075679384" duration="6848000" />
+      <workItem from="1593155786192" duration="12644000" />
+      <workItem from="1593430840221" duration="1880000" />
+      <workItem from="1593442979690" duration="325000" />
+      <workItem from="1593447005896" duration="5000" />
+      <workItem from="1593449526980" duration="2000" />
+      <workItem from="1593516033676" duration="621000" />
+      <workItem from="1593604403752" duration="3000" />
+      <workItem from="1593968706063" duration="5000" />
+      <workItem from="1594190271699" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#ESLint" timestamp="1591638913009">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#ESLint/0.0.1536.834@0.0.1536.834" timestamp="1591638913009" />
+    <state x="534" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591638698303">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1591638698303" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591634419294">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1591634419294" />
+    <state x="425" y="219" key="run.anything.popup" timestamp="1592231717493">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1591639433844" />
+    <state x="425" y="219" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1592231717493" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1592214541055">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1592214541055" />
   </component>
 </project>
